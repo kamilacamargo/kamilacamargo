@@ -2,8 +2,8 @@ Boas vindas ao meu perfil ❤️
 
 Meu nome é Kamila Camargo
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
+- Sou professor na Alura
+- Estou ensinando a linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 - Você pode entrar em contato comigo 📫
   
